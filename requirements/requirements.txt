@@ -1,0 +1,6 @@
+---------------------------
+CANDataDisplay requirements
+---------------------------
+
+1. Receive all CAN messages from CAN Bus
+2. Display all messages on web page showing ID, DLC, Data bytes, TimesStamp
